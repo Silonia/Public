@@ -1,0 +1,10 @@
+{
+  "stable": {
+    "name": "v1",
+    "url": "none"
+  },
+  "beta": {
+    "name": "v1-beta",
+    "url": "none"
+  }
+}
