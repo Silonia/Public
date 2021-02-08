@@ -1,10 +1,10 @@
 {
   "stable": {
-    "name": "v1",
+    "name": "1.0.0-DEV",
     "url": "none"
   },
   "beta": {
-    "name": "v1-beta",
+    "name": "1.0.0",
     "url": "none"
   }
 }
